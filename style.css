@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #4CAF50;       /* Verde vibrante */
+    --secondary-color: #FFC107;    /* Amarelo festivo */
+    --text-color: #fff8e1;         /* Bege claro para contraste suave */
+    --background-color: #2E7D32;   /* Verde escuro */
+    --button-hover: #1B5E20;       /* Verde mais escuro */
+    --font-body: "Chocolate Classical Sans", serif;
+    --font-titulo: "Rakkas", serif;
+}
